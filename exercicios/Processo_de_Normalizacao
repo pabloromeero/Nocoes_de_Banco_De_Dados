@@ -14,3 +14,6 @@ Relacione essas tabelas com uma chave estrangeira.
 
 Terceira forma normal:
 Elimine campos que não dependem da chave.
+
+A quarta forma normal, também chamada de BCNF (Boyce Codd Normal Form), e a quinta forma normal existem, mas raramente são consideradas no design prático.
+Ignorar essas regras pode resultar em não mais que um design de banco de dados perfeito, mas não deve afetar a funcionalidade.
