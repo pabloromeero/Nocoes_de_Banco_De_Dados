@@ -1,0 +1,22 @@
+1º etapa - Análise de requisitos:
+Identificar o problema;
+Estudar o problema e o resumo da solução;
+Modelar;
+Informar as condições;
+Revisar.
+
+2º etapa - Modelo conceitual:
+É o o modelo de mais alto nível, ou seja, que esta mais próximo da realidade dos usuários. 
+O nível conceitual é desenvolvido com alto nível de abstração, a partir dos requisitos do sistema, extraídos na fase de levantamento de requisitos. 
+Esse modelo pode ser elaborado por meio de dois diagramas: Diagrama de Entidade e Relacionamento e/ou o Diagrama de Classes.
+
+3º etapa - Modelo lógico:
+Descreve como os dados serão armazenados no banco e também seus relacionamentos.
+Esse modelo adota alguma tecnologia, pode ser: relacional, orientado a objetos, orientado a colunas, entre outros.
+
+4º etapa - Modelo físico:
+Descreve, por meio de alguma linguagem, como será feita a armazenagem no banco.
+Nesse nível se escolhe qual Sistema gerenciador de Banco de dados (SGBD) será usado, levando em consideração o modelo lógico adotado. 
+Pode ser: PostgreSQL, MySQL, dentre outros.
+
+
