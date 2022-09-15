@@ -1,0 +1,16 @@
+Exemplos de Banco de Dados Relacionais:
+Amazon Aurora;
+Oracle;
+Microsoft SQL Server;
+MySQL;
+PostgreSQL;
+MariaDB.
+
+Exemplos de Banco de Dados Não Relacionais:
+MongoDB;
+Neo4j;
+Amazon DynamoDB;
+Hbase;
+Cassandra;
+Memcached;
+Redis.
