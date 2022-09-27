@@ -7,7 +7,7 @@ PRIMARY KEY ('id'));
 
 
 DELIMITER //
-    CREATE PROCEDURE  Compras_Diarias
+    CREATE PROCEDURE Compras_Diarias
 BEGIN
     declare contador int(11);
 
