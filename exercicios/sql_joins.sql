@@ -39,7 +39,7 @@ RIGHT JOIN TabelaB as B
 /* FULL OUTER JOIN */
 SELECT a.Nome, b.Nome
 FROM TabelaA as A 
-FULL OUTER JOIN TabelaB as b
+FULL OUTER JOIN TabelaB as B
     on a.Nome = b.Nome
 
 /* LEFT EXCLUDING JOIN */
@@ -52,7 +52,7 @@ WHERE b.Nome is NULL
 /* RIGHT EXCLUDING JOIN */
 SELECT a.Nome, b.Nome
 FROM TabelaA as A 
-RIGHT JOIN TabelaB as b
+RIGHT JOIN TabelaB as B
     on a.Nome = b.Nome
 WHERE a.Nome is NULL
 
