@@ -1,6 +1,6 @@
 ALUNO = SELECT NOTA > FLOAT(7.0);
 
-ALUNO = SELECT (SÉRIE = '1°ano').and.(NOTA >= FLOAT (8.0);
+ALUNO = SELECT (SÉRIE = '1°ano').and.(NOTA >= FLOAT(8.0);
 
 ALUNO = PROJECT (P.NOME, NOTA);
 
