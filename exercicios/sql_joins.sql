@@ -32,7 +32,7 @@ LEFT JOIN TabelaB as B
 
 /* RIGHT JOIN */
 SELECT a.Nome, b.Nome
-FROM TabelaA as a
+FROM TabelaA as A
 RIGHT JOIN TabelaB as B 
     on a.Nome = b.Nome
 
