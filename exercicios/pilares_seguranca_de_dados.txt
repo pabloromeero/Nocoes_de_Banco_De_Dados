@@ -1,0 +1,28 @@
+1. Confidencialidade
+Esse item é relacionado à privacidade das informações. A equipe de Gestão de TI irá implementar medidas como criar níveis de acesso. 
+Somente profissionais autorizados vão ter entrada permitida para utilizar esses dados. Terá que ser feita uma hierarquia de acessos bem estruturada.
+A constituição de uma Política de Segurança também é importante para reforçar a confidencialidade do seu negócio.
+É necessário conscientizar e treinar os funcionários que terão níveis de acesso mais avançados, para evitar a manipulação incorreta das informações.
+
+2. Integridade
+Corresponde à preservação dos dados, não sendo possível realizar qualquer alteração por pessoas não autorizadas. 
+É vital criar medidas para evitar que esses elementos sejam danificados ou corrompidos. O prejuízo com a perda de informações pode ser enorme para o seu negócio.
+Algumas formas de manter a integridade dos arquivos são realizadas por meio de backups, controle de versão, definição de permissão de acesso, usando somas de verificação, entre outras.
+A falha no quesito integridade também gera atritos nas equipes e departamentos internos.
+
+3. Disponibilidade
+Além da proteção dos ativos intelectuais da empresa, é essencial que esses materiais possam ser consultados a qualquer momento. 
+Manter a continuidade dos processos da empresa é uma atividade fundamental na hora de implementar ações de Segurança da Informação.
+Serviços feitos para que haja disponibilidade contínua são manutenção ágil, eliminação de conflitos de softwares, atualizações periódicas dos sistemas, 
+além de ações para manter a internet sempre ativa com links temporários e links redundantes, por exemplo!
+
+4. Autenticidade
+Confirmação de que os dados possuem legitimidade, ou seja, não haja manipulação ou intervenções externas de terceiros passando-se por colaboradores. 
+Para tal objetivo, é necessário documentar as ações feitas pelos usuários na rede e nos sistemas.
+Os dados corporativos devem ter processos para identificar a sua autenticidade e isso é uma das tarefas da equipe de Segurança da Informação. 
+A configuração de um log de acesso ajuda a confirmar a veracidade de um determinado registro.
+
+5. Legalidade
+Por fim, é necessário ter uma Política de Segurança para assegurar que todos os procedimentos relacionados à informação dentro da empresa sejam feitos de acordo com a lei. 
+Isso evita que ocorram impedimentos operacionais, averiguações e auditorias de órgãos fiscalizadores.
+
